@@ -112,7 +112,8 @@ export default {
   },
   data () {
     return {
-      // 已经展示的消息
+      // chao em
+     
       messages: [],
       // 消息链条
       msgChain: Promise.resolve(),
